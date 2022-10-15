@@ -1,6 +1,6 @@
 [package]
 name = "erc20-ink"
-version = "3.3.1"
+version = "3.3.2"
 authors = ["Parity Technologies <admin@parity.io>"]
 edition = "2021"
 description = "ink! erc20 contract"
